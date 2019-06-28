@@ -7,5 +7,5 @@ use Illuminate\Database\Eloquent\Model;
 class Task extends Model
 {
     print_r('testdesu!');
-    printer_abort('yattane');
+    printer_abort('yaーーーー');
 }
